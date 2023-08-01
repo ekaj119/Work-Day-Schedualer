@@ -13,11 +13,7 @@
 05 May 2020
 
 # Repository link
-
-https://github.com/hoffman1200/Homework-5
+https://github.com/ekaj119/Work-Day-Schedualer
 
 # Web site link
-
-https://hoffman1200.github.io/Homework-5/
-
-Fernando Soto Calis @hoffman1200
+https://ekaj119.github.io/Work-Day-Schedualer/
